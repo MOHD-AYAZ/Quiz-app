@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="">
+  <a href=" https://mohd-ayaz.github.io/Quiz-app/">
     # Quiz T!me
   </a>
 </h1>
