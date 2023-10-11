@@ -27,6 +27,27 @@ align-items: center;
     margin: 10px;
     
 }
+@media (min-width: 500px) and (max-width: 750px){
+    .main{    
+        margin-left: 10px;
+        }
+        .title{
+            color:rgb(32, 30, 70);
+            margin: 5px;
+            position: absolute;
+            top:150px;
+            
+        }
+        #container{
+            width: 80%;
+         }
+        .btn{
+            width: 50%;
+            padding: 5px;
+            font-size: 10px;
+            
+        }
+}
 
 #container{
     border-top-right-radius: 40px;
