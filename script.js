@@ -147,8 +147,13 @@ const getAnswer = () =>{
 
 const QuizEnd = ()=>{
     document.getElementById("container").innerHTML=`
-    <h3>Thankyou for playing the Quiz</h3>
-    <h2>${right}/${total}</h2>`
+    
+    <center><img src="pngegg.png"><center>
+    <br>
+    <div style = "justify-content: center; font-size:30px;color:#2fa4db;">
+    <center><h3>Thankyou for playing the Quiz</h3>
+    <h2>${right}/${total}</h2></center>
+    <div>`
 }
 
 uploadQ();
